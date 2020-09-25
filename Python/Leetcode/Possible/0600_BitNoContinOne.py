@@ -29,7 +29,7 @@ def solution2(n):
         return int('1' + '0'*len(bitN), 2)
     else:
         index11 = bitN.find('11')
-        if index11 == -1: #No 11 but have 00 => have 01 => change 00 to 01 and add 0 after it
+        if index11 == -1: # No 11 but have 00 => have 01 => change 00 to 01 and add 0 after it
             return int(bitN[0:index00+1] + '1' + '0'*len(bitN[index00+2:]), 2)
         else:
             newIndex00 = bitN[0:index11].rfind('00')

@@ -61,6 +61,6 @@ class Solution3:
                 k -= newIndex1-index1+1
                 index1 = newIndex1+1
 
-solution = Solution3()
+solution = Solution2()
 res = solution.findNoKSortedArrays([1,3,5], [2,4])
 print(res)

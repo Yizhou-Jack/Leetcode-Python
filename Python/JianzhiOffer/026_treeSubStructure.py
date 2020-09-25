@@ -7,10 +7,12 @@ class TreeNode:
 
 class Solution:
     def isSubStructure(self, A: TreeNode, B: TreeNode) -> bool:
+        if B is None: return False
+
         def helper(ANode, BNode):
-            if not ANode and not BNode:
+            if not BNode:
                 return True
-            elif (not ANode and BNode) or (ANode and not BNode):
+            elif not ANode:
                 return False
             if ANode.val == BNode.val:
                 res1 = helper(ANode.left, BNode.left)
@@ -23,6 +25,7 @@ class Solution:
         p = A
         while p or len(nodeList):
             while p:
+                nodeList.append(p)
                 if p.val == B.val:
                     res = helper(p, B)
                     if res: return res
