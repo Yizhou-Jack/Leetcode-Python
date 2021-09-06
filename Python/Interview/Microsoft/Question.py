@@ -18,6 +18,12 @@ def findMax(upper, nums):
             site[i] = para
 
     numsOfUpper = list(map(int, list(str(upper))))
+    preFlag = True
+    for i in range(len(numsOfUpper)):
+        if numsOfUpper[i] not in nums:
+            preFlag = False
+    if preFlag: return upper
+
     length = len(numsOfUpper)
     res = []
 
@@ -43,11 +49,11 @@ def findMax(upper, nums):
 
     while len(res) != length:
         res.append(str(nums[-1]))
+
     if res[0] == "0":
         return "".join(res[1:])
-    else:
-        return "".join(res)
+    return "".join(res)
 
 
-res = findMax(99099, [7,8,9])
+res = findMax(3333330, [6, 3, 9])
 print(res)
