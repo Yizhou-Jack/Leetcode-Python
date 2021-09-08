@@ -6,3 +6,6 @@ testInt = float('inf')
 
 # 构建directions数组
 directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+
+# 生成字母表
+alphaList = [chr(i) for i in range(97, 123)]
