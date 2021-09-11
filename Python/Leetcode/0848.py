@@ -24,3 +24,13 @@ class Solution:
             subRes = convertMap[sumValue]
             res = subRes+res
         return res
+
+    def shiftingLetters(self, s: str, shifts: List[int]) -> str:
+        n = len(s)
+        for i in range(n - 2, -1, -1):
+            shifts[i] += shifts[i + 1]
+        res = []
+        for i, char in enumerate(s):
+            idx = (ord(char) - ord('a') + shifts[i]) % 26
+            res.append(chr(idx + ord('a')))
+        return "".join(res)
