@@ -1,6 +1,5 @@
 """
 Maximum Product of the Length of Two Palindromic Subsequences
-Time: 
 """
 
 class Solution:
