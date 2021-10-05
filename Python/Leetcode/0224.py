@@ -7,7 +7,8 @@ class Solution(object):
         res = 0
         sign = 1
         num = 0
-        stack = []
+        resStack = []
+        signStack = []
         for c in s:
             if c.isdigit():
                 num = 10*num+int(c)
@@ -16,14 +17,14 @@ class Solution(object):
                 num = 0
                 sign = 1 if c == "+" else -1
             elif c == "(":
-                stack.append(res)
-                stack.append(sign)
+                resStack.append(res)
+                signStack.append(sign)
                 res = 0
                 sign = 1
             elif c == ")":
                 res += num*sign
                 num = 0
-                res *= stack.pop()
-                res += stack.pop()
+                res *= signStack.pop()
+                res += resStack.pop()
         res += sign*num
         return res
