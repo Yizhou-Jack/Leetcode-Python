@@ -1,3 +1,7 @@
+"""
+Minimum Number of Work Sessions to Finish the Tasks
+"""
+
 from typing import List
 
 class Solution:

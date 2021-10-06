@@ -1,3 +1,7 @@
+"""
+Minimum Size Subarray Sum
+"""
+
 class Solution:
     def minSubArrayLen(self, s, nums):
         if not nums: return 0
