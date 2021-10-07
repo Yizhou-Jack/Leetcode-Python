@@ -14,6 +14,7 @@ Use Python to solve Leetcode problems.
 | 55 | Jump Game | Medium | Iteration |   |
 | 70 | Climbing Stairs | Easy | Dynamic Programming |   |
 | 78 | Subsets | Medium | Recursion (Backtrack Algorithm) |   |
+| 79 | Word Search | Medium | DFS |   |
 | 85 | Maximal Rectangle | Hard | Stack (Like No.84) |
 | 130 | Surrounded Regions | Medium | DFS / Union-Find |   |
 | 142 | Linked List Cycle II | Medium | Iteration (Like No.287) | :white_check_mark: |

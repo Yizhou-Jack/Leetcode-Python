@@ -1,5 +1,5 @@
 """
-Longest Common Subsequence
+Longest HighFrequencyProblems Subsequence
 """
 
 class Solution:
