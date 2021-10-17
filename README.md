@@ -28,8 +28,10 @@ Use Python to solve Leetcode problems.
 | 215 | Kth Largest Element in an Array | Medium | Heap | :white_check_mark: |
 | 227 | Basic Calculator I | Medium | Stack | :white_check_mark: |
 | 227 | Basic Calculator II | Medium | Stack | :white_check_mark: |
+| 279 | Perfect Squares | Medium | Dynamic Programming |   |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming & Binary Search | :white_check_mark: |
 | 347 | Top K Frequent Elements | Medium | Heap | :white_check_mark: |
+| 437 | Path Sum III | Medium | Recursion |   |
 | 442 | Find All Duplicates in an Array | Medium | Direct | :white_check_mark: |
 | 446 | Arithmetic Slices II - Subsequence | Hard | Dynamic Programming |   |
 | 463 | Island Perimeter | Easy | Direct |   |
@@ -37,6 +39,7 @@ Use Python to solve Leetcode problems.
 | 486 | Predict the Winner | Medium | Dynamic Programming |   |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | :white_check_mark: |
 | 542 | 01 Matrix | Medium | Direct |   |
+| 543 | Diameter of Binary Tree | Easy | Recursion |   |
 | 587 | Erect the Fence | Hard | Convex Hull |   |
 | 600 | Bit No Continous One | Medium | Direct |   |
 | 721 | Accounts Merge | Medium | Union Find |   |
