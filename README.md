@@ -17,7 +17,9 @@ Use Python to solve Leetcode problems.
 | 79 | Word Search | Medium | DFS |   |
 | 85 | Maximal Rectangle | Hard | Stack (Like No.84) |
 | 130 | Surrounded Regions | Medium | DFS / Union-Find |   |
+| 140 | Word Break II | Hard | Memory Search | :white_check_mark: |
 | 142 | Linked List Cycle II | Medium | Iteration (Like No.287) | :white_check_mark: |
+| 151 | Reverse Words in a String | Medium | Iteration |   |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search |   |
 | 174 | Dungeon Game | Hard | Dynamic Programming |   |
 | 179 | Largest Number | Medium | Override Comparator |   |
@@ -50,6 +52,7 @@ Use Python to solve Leetcode problems.
 | 917 | Reverse Only Letters | Easy | Direct |   |
 | 922 | Sort Array By Parity II | Easy | Two Pointers |   |
 | 929 | Split Linked List in Parts | Easy | Direct |   |
+| 993 | Cousins in Binary Tree | Easy | Recursion |   |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | :white_check_mark: |
 | 1235 | Maximum Profit in Job Scheduling | Hard | Dynamic Programming |   |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | Medium | Recursion (Backtrack Algorithm) |   |
