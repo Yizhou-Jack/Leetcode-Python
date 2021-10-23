@@ -1,25 +1,32 @@
 """
-374: Guess Number Higher or Lower
+154: Find Minimum in Rotated Sorted Array II
 """
-
-# The guess API is already defined for you.
-# @param num, your guess
-# @return -1 if my number is lower, 1 if my number is higher, otherwise return 0
-# def guess(num: int) -> int:
+from typing import List
 
 class Solution:
-    def guessNumber(self, n: int) -> int:
-        def guess():
-            return 0
-
+    """
+    If no duplicates.
+    """
+    def findMin1(self, nums: List[int]) -> int:
         left = 0
-        right = n
-        while left <= right:
+        right = len(nums)-1
+        while left < right:
             mid = (left+right)//2
-            g = guess(mid)
-            if g == 0:
-                return mid
-            elif g == 1:
+            if nums[mid] > nums[right]:
                 left = mid+1
             else:
-                right = mid-1
+                right = mid
+        return nums[left]
+    """
+    If contains duplicates.
+    """
+    def findMin2(self, nums: List[int]) -> int:
+        left = 0
+        right = len(nums)-1
+        while left < right:
+            mid = (left+right)//2
+            if nums[mid] > nums[right]:
+                left = mid+1
+            else:
+                right = mid if nums[mid] != nums[right] else right-1
+        return nums[left]
