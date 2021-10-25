@@ -21,11 +21,13 @@ Use Python to solve Leetcode problems.
 | 142 | Linked List Cycle II | Medium | Iteration (Like No.287) | :white_check_mark: |
 | 151 | Reverse Words in a String | Medium | Iteration |   |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search |   |
+| 154 | Find Minimum in Rotated Sorted Array II | Hard | Binary Search | :white_check_mark: |
+| 155 | Min Stack | Easy | Data Structure | :white_check_mark: |
 | 174 | Dungeon Game | Hard | Dynamic Programming |   |
 | 179 | Largest Number | Medium | Override Comparator |   |
 | 200 | Number of Islands | Medium | DFS / BFS / Union-Find | :white_check_mark: |
-| 209 | Minimum Size Subarray Sum | Medium | Two Pointers |   |
-| 209 | Minimum Size Subarray Contains All Elements | Medium | Two Pointers |   |
+| 209 | Minimum Size Sub-array Sum | Medium | Two Pointers |   |
+| 209 | Minimum Size Sub-array Contains All Elements | Medium | Two Pointers |   |
 | 210 | Course Schedule II | Medium | BFS | :white_check_mark: |
 | 215 | Kth Largest Element in an Array | Medium | Heap | :white_check_mark: |
 | 227 | Basic Calculator I | Medium | Stack | :white_check_mark: |
