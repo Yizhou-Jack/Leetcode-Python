@@ -13,6 +13,7 @@ Use Python to solve Leetcode problems.
 | 54 | Spiral Matrix | Medium | Direct | :white_check_mark: |
 | 55 | Jump Game | Medium | Iteration |   |
 | 70 | Climbing Stairs | Easy | Dynamic Programming |   |
+| 75 | Sort Colors | Medium | Dutch National Flag Problem | :white_check_mark: |
 | 78 | Subsets | Medium | Recursion (Backtrack Algorithm) |   |
 | 79 | Word Search | Medium | DFS |   |
 | 85 | Maximal Rectangle | Hard | Stack (Like No.84) |
