@@ -6,6 +6,7 @@ Use Python to solve Leetcode problems.
 | ------ | ------ | ------ | ------ | ------ |
 | 4 | Median of Two Sorted Arrays | Hard | Divide and Conquer | :white_check_mark: |
 | 4 | No.K Element of Two Sorted Arrays | Hard | Divide and Conquer |   |
+| 55 | Jump Game | Medium | Two Pointers | :white_check_mark: |
 | 39 | Combination Sum | Medium | Recursion (Backtrack Algorithm) | :white_check_mark: |
 | 40 | Combination Sum II | Medium | Recursion (Backtrack Algorithm) |   |
 | 46 | Permutations | Medium | Recursion (Backtrack Algorithm) | :white_check_mark: |
