@@ -58,6 +58,7 @@ Use Python to solve Leetcode problems.
 | 922 | Sort Array By Parity II | Easy | Two Pointers |   |
 | 929 | Split Linked List in Parts | Easy | Direct |   |
 | 993 | Cousins in Binary Tree | Easy | Recursion |   |
+| 994 | Rotting Oranges | Medium | DFS |   |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | :white_check_mark: |
 | 1235 | Maximum Profit in Job Scheduling | Hard | Dynamic Programming |   |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | Medium | Recursion (Backtrack Algorithm) |   |
