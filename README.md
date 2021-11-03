@@ -18,6 +18,7 @@ Use Python to solve Leetcode problems.
 | 78 | Subsets | Medium | Recursion (Backtrack Algorithm) |   |
 | 79 | Word Search | Medium | DFS |   |
 | 85 | Maximal Rectangle | Hard | Stack (Like No.84) |
+| 129 | Sum Root to Leaf Numbers | Medium | Recursion |   |
 | 130 | Surrounded Regions | Medium | DFS / Union-Find |   |
 | 140 | Word Break II | Hard | Memory Search | :white_check_mark: |
 | 142 | Linked List Cycle II | Medium | Iteration (Like No.287) | :white_check_mark: |
@@ -49,7 +50,7 @@ Use Python to solve Leetcode problems.
 | 542 | 01 Matrix | Medium | Direct |   |
 | 543 | Diameter of Binary Tree | Easy | Recursion |   |
 | 587 | Erect the Fence | Hard | Convex Hull |   |
-| 600 | Bit No Continous One | Medium | Direct |   |
+| 600 | Bit No Continuous One | Medium | Direct |   |
 | 721 | Accounts Merge | Medium | Union Find |   |
 | 725 | Split Linked List in Parts | Medium | Linked List |   |
 | 834 | Sum of Distances in Tree | Hard | Graph Theory |   |
@@ -58,6 +59,7 @@ Use Python to solve Leetcode problems.
 | 917 | Reverse Only Letters | Easy | Direct |   |
 | 922 | Sort Array By Parity II | Easy | Two Pointers |   |
 | 929 | Split Linked List in Parts | Easy | Direct |   |
+| 980 | Unique Paths III | Hard | DFS |   |
 | 993 | Cousins in Binary Tree | Easy | Recursion |   |
 | 994 | Rotting Oranges | Medium | DFS |   |
 | 1044 | Longest Duplicate Substring | Hard | Binary Search / Rabin Karp | :white_check_mark: |
