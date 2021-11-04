@@ -39,6 +39,7 @@ Use Python to solve Leetcode problems.
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming & Binary Search | :white_check_mark: |
 | 347 | Top K Frequent Elements | Medium | Heap | :white_check_mark: |
 | 380 | Insert Delete GetRandom O(1) | Medium | Data Structure |   |
+| 404 | Sum of Left Leaves | Easy | Stack | :white_check_mark: |
 | 430 | Flatten a Multilevel Doubly Linked List | Medium | Stack |   |
 | 437 | Path Sum III | Medium | Recursion |   |
 | 442 | Find All Duplicates in an Array | Medium | Direct | :white_check_mark: |
