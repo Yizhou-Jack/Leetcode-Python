@@ -9,6 +9,7 @@ Use Python to solve Leetcode problems.
 | 55 | Jump Game | Medium | Two Pointers | :white_check_mark: |
 | 39 | Combination Sum | Medium | Recursion (Backtrack Algorithm) | :white_check_mark: |
 | 40 | Combination Sum II | Medium | Recursion (Backtrack Algorithm) |   |
+| 43 | Multiply Strings | Medium | Two Pointers | :white_check_mark: |
 | 46 | Permutations | Medium | Recursion (Backtrack Algorithm) | :white_check_mark: |
 | 48 | Rotate Image | Medium | Direct | :white_check_mark: |
 | 54 | Spiral Matrix | Medium | Direct | :white_check_mark: |
@@ -35,6 +36,7 @@ Use Python to solve Leetcode problems.
 | 215 | Kth Largest Element in an Array | Medium | Heap | :white_check_mark: |
 | 227 | Basic Calculator I | Medium | Stack | :white_check_mark: |
 | 227 | Basic Calculator II | Medium | Stack | :white_check_mark: |
+| 260 | Single Number III | Medium | Bit Operation (Tricky) | :white_check_mark: |
 | 279 | Perfect Squares | Medium | Dynamic Programming |   |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming & Binary Search | :white_check_mark: |
 | 347 | Top K Frequent Elements | Medium | Heap | :white_check_mark: |
@@ -73,3 +75,4 @@ Use Python to solve Leetcode problems.
 | 1996 | The Number of Weak Characters in the Game | Medium | Direct |   |
 | 2002 | Maximum Product of the Length of Two Palindromic Subsequences | Medium | Direct |   |
 | 2029 | Stone Game IX | Medium | Tricky |   |
+| 2064 | Minimized Maximum of Products Distributed to Any Store | Medium | Binary Search | :white_check_mark: |
