@@ -55,6 +55,7 @@ Use Python to solve Leetcode problems.
 | 543 | Diameter of Binary Tree | Easy | Recursion |   |
 | 587 | Erect the Fence | Hard | Convex Hull |   |
 | 600 | Bit No Continuous One | Medium | Direct |   |
+| 704 | Binary Search | Easy | Binary Search | :white_check_mark: |
 | 721 | Accounts Merge | Medium | Union Find |   |
 | 725 | Split Linked List in Parts | Medium | Linked List |   |
 | 834 | Sum of Distances in Tree | Hard | Graph Theory |   |
