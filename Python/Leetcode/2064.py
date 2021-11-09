@@ -8,7 +8,7 @@ from typing import List
 class Solution:
     def minimizedMaximum(self, n: int, quantities: List[int]) -> int:
         left = 1
-        right = sum(quantities)
+        right = sum(quantities)+1 # Left close Right open
         while left < right:
             mid = (left+right)//2
             storeNum = 0
