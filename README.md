@@ -20,6 +20,7 @@ Use Python to solve Leetcode problems.
 | 79 | Word Search | Medium | DFS |   |
 | 85 | Maximal Rectangle | Hard | Stack (Like No.84) | :white_check_mark: |
 | 96 | Unique Binary Search Trees | Medium | DP |   |
+| 122 | Best Time to Buy and Sell Stock II | Medium | DP | :white_check_mark: |
 | 129 | Sum Root to Leaf Numbers | Medium | Recursion |   |
 | 130 | Surrounded Regions | Medium | DFS / Union-Find |   |
 | 140 | Word Break II | Hard | Memory Search | :white_check_mark: |
