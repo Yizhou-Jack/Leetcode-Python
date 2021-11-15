@@ -32,7 +32,8 @@ Use Python to solve Leetcode problems.
 | 174 | Dungeon Game | Hard | Dynamic Programming |   |
 | 179 | Largest Number | Medium | Override Comparator |   |
 | 200 | Number of Islands | Medium | DFS / BFS / Union-Find | :white_check_mark: |
-| 209 | Minimum Size Sub-array Sum | Medium | Two Pointers |   |
+| 203 | Remove Linked List Elements | Easy | Linked List |   |
+| 208 | Minimum Size Sub-array Sum | Medium | Two Pointers |   |
 | 209 | Minimum Size Sub-array Contains All Elements | Medium | Two Pointers |   |
 | 210 | Course Schedule II | Medium | BFS | :white_check_mark: |
 | 215 | Kth Largest Element in an Array | Medium | Heap | :white_check_mark: |
@@ -42,6 +43,7 @@ Use Python to solve Leetcode problems.
 | 279 | Perfect Squares | Medium | Dynamic Programming |   |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming & Binary Search | :white_check_mark: |
 | 347 | Top K Frequent Elements | Medium | Heap | :white_check_mark: |
+| 368 | Largest Divisible Subset | Medium | DP |   |
 | 380 | Insert Delete GetRandom O(1) | Medium | Data Structure |   |
 | 404 | Sum of Left Leaves | Easy | Stack | :white_check_mark: |
 | 430 | Flatten a Multilevel Doubly Linked List | Medium | Stack |   |
