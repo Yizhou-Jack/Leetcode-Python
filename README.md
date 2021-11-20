@@ -26,6 +26,7 @@ Use Python to solve Leetcode problems.
 | 130 | Surrounded Regions | Medium | DFS / Union-Find |   |
 | 140 | Word Break II | Hard | Memory Search | :white_check_mark: |
 | 142 | Linked List Cycle II | Medium | Iteration (Like No.287) | :white_check_mark: |
+| 146 | LRU Cache | Medium | Data Structure | :white_check_mark: |
 | 151 | Reverse Words in a String | Medium | Iteration |   |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search |   |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | Binary Search | :white_check_mark: |
@@ -51,10 +52,13 @@ Use Python to solve Leetcode problems.
 | 437 | Path Sum III | Medium | Recursion |   |
 | 442 | Find All Duplicates in an Array | Medium | Direct | :white_check_mark: |
 | 446 | Arithmetic Slices II - Subsequence | Hard | Dynamic Programming |   |
+| 448 | Find All Numbers Disappeared in an Array | Easy | Tricky | :white_check_mark: |
+| 461 | Hamming Distance | Easy | Bit Operation |   |
 | 463 | Island Perimeter | Easy | Direct |   |
 | 468 | Valid IP Address | Medium | Direct |   |
 | 486 | Predict the Winner | Medium | Dynamic Programming |   |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | :white_check_mark: |
+| 540 | Single Element in a Sorted Array | Medium | Binary Search |   |
 | 542 | 01 Matrix | Medium | Direct |   |
 | 543 | Diameter of Binary Tree | Easy | Recursion |   |
 | 587 | Erect the Fence | Hard | Convex Hull |   |
