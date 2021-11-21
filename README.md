@@ -21,6 +21,7 @@ Use Python to solve Leetcode problems.
 | 79 | Word Search | Medium | DFS |   |
 | 85 | Maximal Rectangle | Hard | Stack (Like No.84) | :white_check_mark: |
 | 96 | Unique Binary Search Trees | Medium | DP |   |
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | Recursion |   |
 | 122 | Best Time to Buy and Sell Stock II | Medium | DP | :white_check_mark: |
 | 129 | Sum Root to Leaf Numbers | Medium | Recursion |   |
 | 130 | Surrounded Regions | Medium | DFS / Union-Find |   |
@@ -63,6 +64,7 @@ Use Python to solve Leetcode problems.
 | 543 | Diameter of Binary Tree | Easy | Recursion |   |
 | 587 | Erect the Fence | Hard | Convex Hull |   |
 | 600 | Bit No Continuous One | Medium | Direct |   |
+| 668 | Kth Smallest Number in Multiplication Table | Hard | Binary Search |   |
 | 704 | Binary Search | Easy | Binary Search | :white_check_mark: |
 | 721 | Accounts Merge | Medium | Union Find |   |
 | 725 | Split Linked List in Parts | Medium | Linked List |   |
