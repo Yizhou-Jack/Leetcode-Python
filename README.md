@@ -54,6 +54,7 @@ Use Python to solve Leetcode problems.
 | 442 | Find All Duplicates in an Array | Medium | Direct | :white_check_mark: |
 | 446 | Arithmetic Slices II - Subsequence | Hard | Dynamic Programming |   |
 | 448 | Find All Numbers Disappeared in an Array | Easy | Tricky | :white_check_mark: |
+| 450 | Delete Node in a BST | Medium | Recursion | :white_check_mark: |
 | 461 | Hamming Distance | Easy | Bit Operation |   |
 | 463 | Island Perimeter | Easy | Direct |   |
 | 468 | Valid IP Address | Medium | Direct |   |
@@ -74,6 +75,7 @@ Use Python to solve Leetcode problems.
 | 917 | Reverse Only Letters | Easy | Direct |   |
 | 922 | Sort Array By Parity II | Easy | Two Pointers |   |
 | 929 | Split Linked List in Parts | Easy | Direct |   |
+| 952 | Largest Component Size by Common Factor | Hard | Union-Find |   |
 | 980 | Unique Paths III | Hard | DFS |   |
 | 993 | Cousins in Binary Tree | Easy | Recursion |   |
 | 994 | Rotting Oranges | Medium | DFS |   |
