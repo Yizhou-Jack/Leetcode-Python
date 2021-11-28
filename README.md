@@ -40,8 +40,9 @@ Use Python to solve Leetcode problems.
 | 209 | Minimum Size Sub-array Contains All Elements | Medium | Two Pointers |   |
 | 210 | Course Schedule II | Medium | BFS | :white_check_mark: |
 | 215 | Kth Largest Element in an Array | Medium | Heap | :white_check_mark: |
-| 227 | Basic Calculator I | Medium | Stack | :white_check_mark: |
+| 224 | Basic Calculator I | Medium | Stack | :white_check_mark: |
 | 227 | Basic Calculator II | Medium | Stack | :white_check_mark: |
+| 238 | Product of Array Except Self | Medium | Tricky | :white_check_mark: |
 | 260 | Single Number III | Medium | Bit Operation (Tricky) | :white_check_mark: |
 | 279 | Perfect Squares | Medium | Dynamic Programming |   |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming & Binary Search | :white_check_mark: |
@@ -69,6 +70,7 @@ Use Python to solve Leetcode problems.
 | 704 | Binary Search | Easy | Binary Search | :white_check_mark: |
 | 721 | Accounts Merge | Medium | Union Find |   |
 | 725 | Split Linked List in Parts | Medium | Linked List |   |
+| 797 | All Paths From Source to Target | Medium | DFS |   |
 | 834 | Sum of Distances in Tree | Hard | Graph Theory |   |
 | 848 | Shifting Letters | Medium | Direct |   |
 | 882 | Reachable Nodes In Subdivided Graph | Hard | Priority Queue |   |
