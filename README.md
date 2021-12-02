@@ -34,6 +34,7 @@ Use Python to solve Leetcode problems.
 | 155 | Min Stack | Easy | Data Structure | :white_check_mark: |
 | 174 | Dungeon Game | Hard | Dynamic Programming |   |
 | 179 | Largest Number | Medium | Override Comparator |   |
+| 198 | House Robber | Medium | DP | :white_check_mark: |
 | 200 | Number of Islands | Medium | DFS / BFS / Union-Find | :white_check_mark: |
 | 203 | Remove Linked List Elements | Easy | Linked List |   |
 | 208 | Minimum Size Sub-array Sum | Medium | Two Pointers |   |
@@ -46,6 +47,7 @@ Use Python to solve Leetcode problems.
 | 260 | Single Number III | Medium | Bit Operation (Tricky) | :white_check_mark: |
 | 279 | Perfect Squares | Medium | Dynamic Programming |   |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming & Binary Search | :white_check_mark: |
+| 328 | Odd Even Linked List | Medium | Linked List |   |
 | 347 | Top K Frequent Elements | Medium | Heap | :white_check_mark: |
 | 368 | Largest Divisible Subset | Medium | DP |   |
 | 380 | Insert Delete GetRandom O(1) | Medium | Data Structure |   |
