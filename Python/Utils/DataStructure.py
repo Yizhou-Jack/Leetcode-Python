@@ -13,6 +13,21 @@ class ListNode:
         self.next = None
 
 
+# Trie
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.isEnd = False
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
+    def insert(self, word):
+        root = self.root
+        for s in word:
+            root = root.children.setdefault(s, TrieNode())
+        root.isEnd = True
+
+
 # Stack
 stack = [1, 2, 3]
 stack.append(4)
@@ -33,15 +48,15 @@ queue2.popleft()
 
 # Heap
 import heapq
-# 从数据源挨个构建heap
+# construct heap
 data = [5,1,2,5,6,9,4,2,1]
 heap = []
 for i in data:
     heapq.heappush(heap, i)
-# 重新组织列表元素
+# reorder list to make a heap
 heapq.heapify(data)
-# 弹出最小元素
+# pop up min element
 heapq.heappop(heap)
-# 置换最小元素为新元素
+# replace min element to new element
 heapq.heapreplace(heap, 10)
 print(heap)

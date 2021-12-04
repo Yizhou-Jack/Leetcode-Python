@@ -29,6 +29,7 @@ Use Python to solve Leetcode problems.
 | 142 | Linked List Cycle II | Medium | Iteration (Like No.287) | :white_check_mark: |
 | 146 | LRU Cache | Medium | Data Structure | :white_check_mark: |
 | 151 | Reverse Words in a String | Medium | Iteration |   |
+| 152 | Maximum Product Sub-array | Medium | DP | :white_check_mark: |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search |   |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | Binary Search | :white_check_mark: |
 | 155 | Min Stack | Easy | Data Structure | :white_check_mark: |
@@ -83,6 +84,7 @@ Use Python to solve Leetcode problems.
 | 980 | Unique Paths III | Hard | DFS |   |
 | 993 | Cousins in Binary Tree | Easy | Recursion |   |
 | 994 | Rotting Oranges | Medium | DFS |   |
+| 1032 | Stream of Characters | Hard | Trie | :white_check_mark: |
 | 1044 | Longest Duplicate Substring | Hard | Binary Search / Rabin Karp | :white_check_mark: |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | :white_check_mark: |
 | 1235 | Maximum Profit in Job Scheduling | Hard | Dynamic Programming |   |
