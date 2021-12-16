@@ -28,6 +28,7 @@ Use Python to solve Leetcode problems.
 | 140 | Word Break II | Hard | Memory Search | :white_check_mark: |
 | 142 | Linked List Cycle II | Medium | Iteration (Like No.287) | :white_check_mark: |
 | 146 | LRU Cache | Medium | Data Structure | :white_check_mark: |
+| 147 | Insertion Sort List | Medium | Linked List |   |
 | 151 | Reverse Words in a String | Medium | Iteration |   |
 | 152 | Maximum Product Sub-array | Medium | DP | :white_check_mark: |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search |   |
@@ -49,6 +50,7 @@ Use Python to solve Leetcode problems.
 | 279 | Perfect Squares | Medium | Dynamic Programming |   |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming & Binary Search | :white_check_mark: |
 | 328 | Odd Even Linked List | Medium | Linked List |   |
+| 337 | House Robber III | Medium | DFS |   |
 | 347 | Top K Frequent Elements | Medium | Heap | :white_check_mark: |
 | 368 | Largest Divisible Subset | Medium | DP |   |
 | 380 | Insert Delete GetRandom O(1) | Medium | Data Structure |   |
