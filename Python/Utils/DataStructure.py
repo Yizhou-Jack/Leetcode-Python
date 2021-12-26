@@ -60,3 +60,13 @@ heapq.heappop(heap)
 # replace min element to new element
 heapq.heapreplace(heap, 10)
 print(heap)
+
+
+# Priority Queue
+from queue import PriorityQueue
+q = PriorityQueue()
+q.put((2, 'code'))
+q.put((1, 'eat'))
+q.put((3, 'sleep'))
+q.qsize() # 3
+q.get() # (1, 'eat')

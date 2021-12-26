@@ -43,6 +43,7 @@ Use Python to solve Leetcode problems.
 | 209 | Minimum Size Sub-array Contains All Elements | Medium | Two Pointers |   |
 | 210 | Course Schedule II | Medium | BFS | :white_check_mark: |
 | 215 | Kth Largest Element in an Array | Medium | Heap | :white_check_mark: |
+| 221 | Maximal Square | Medium | DP | :white_check_mark: |
 | 224 | Basic Calculator I | Medium | Stack | :white_check_mark: |
 | 227 | Basic Calculator II | Medium | Stack | :white_check_mark: |
 | 238 | Product of Array Except Self | Medium | Tricky | :white_check_mark: |
@@ -83,6 +84,7 @@ Use Python to solve Leetcode problems.
 | 922 | Sort Array By Parity II | Easy | Two Pointers |   |
 | 929 | Split Linked List in Parts | Easy | Direct |   |
 | 952 | Largest Component Size by Common Factor | Hard | Union-Find |   |
+| 973 | K Closest Points to Origin | Medium | Priority Queue | :white_check_mark: |
 | 980 | Unique Paths III | Hard | DFS |   |
 | 993 | Cousins in Binary Tree | Easy | Recursion |   |
 | 994 | Rotting Oranges | Medium | DFS |   |
