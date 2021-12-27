@@ -65,6 +65,7 @@ Use Python to solve Leetcode problems.
 | 461 | Hamming Distance | Easy | Bit Operation |   |
 | 463 | Island Perimeter | Easy | Direct |   |
 | 468 | Valid IP Address | Medium | Direct |   |
+| 476 | Number Complement | Easy | Bit Operation |   |
 | 486 | Predict the Winner | Medium | Dynamic Programming |   |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | :white_check_mark: |
 | 540 | Single Element in a Sorted Array | Medium | Binary Search |   |
