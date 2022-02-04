@@ -68,6 +68,7 @@ Use Python to solve Leetcode problems.
 | 476 | Number Complement | Easy | Bit Operation |   |
 | 486 | Predict the Winner | Medium | Dynamic Programming |   |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | :white_check_mark: |
+| 525 | Contiguous Array | Medium | Prefix-sum | :white_check_mark: |
 | 540 | Single Element in a Sorted Array | Medium | Binary Search |   |
 | 542 | 01 Matrix | Medium | Direct |   |
 | 543 | Diameter of Binary Tree | Easy | Recursion |   |
@@ -91,6 +92,7 @@ Use Python to solve Leetcode problems.
 | 994 | Rotting Oranges | Medium | DFS |   |
 | 1032 | Stream of Characters | Hard | Trie | :white_check_mark: |
 | 1044 | Longest Duplicate Substring | Hard | Binary Search / Rabin Karp | :white_check_mark: |
+| 1094 | Car Pooling | Medium | Two Pointers |   |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | :white_check_mark: |
 | 1235 | Maximum Profit in Job Scheduling | Hard | Dynamic Programming |   |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | Medium | Recursion (Backtrack Algorithm) |   |

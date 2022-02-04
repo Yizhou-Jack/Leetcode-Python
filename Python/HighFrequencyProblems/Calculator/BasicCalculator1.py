@@ -10,7 +10,7 @@ class Solution(object):
         sign = 1
         num = 0
         resStack = [] # Save res before "(", here is "1" (for second "(")
-        signStack = [] # Save sign before "(", here "1" (for second "(")
+        signStack = [] # Save sign before "(", here is 1 == "+" (for second "(")
         for c in s:
             if c.isdigit():
                 num = num*10+int(c)
