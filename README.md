@@ -4,6 +4,7 @@ Use Python to solve Leetcode problems.
 ## Leetcode
 | Num | Title | Difficulty | Tag | Mark |
 | ------ | ------ | ------ | ------ | ------ |
+| 2 | Add Two Numbers | Medium | Two pointers | :white_check_mark: |
 | 4 | Median of Two Sorted Arrays | Hard | Divide and Conquer | :white_check_mark: |
 | 4 | No.K Element of Two Sorted Arrays | Hard | Divide and Conquer |   |
 | 55 | Jump Game | Medium | Two Pointers | :white_check_mark: |
@@ -56,6 +57,7 @@ Use Python to solve Leetcode problems.
 | 368 | Largest Divisible Subset | Medium | DP |   |
 | 380 | Insert Delete GetRandom O(1) | Medium | Data Structure |   |
 | 404 | Sum of Left Leaves | Easy | Stack | :white_check_mark: |
+| 413 | Arithmetic Slices | Medium | Simulate |   |
 | 430 | Flatten a Multilevel Doubly Linked List | Medium | Stack |   |
 | 437 | Path Sum III | Medium | Recursion |   |
 | 442 | Find All Duplicates in an Array | Medium | Direct | :white_check_mark: |
@@ -78,7 +80,9 @@ Use Python to solve Leetcode problems.
 | 704 | Binary Search | Easy | Binary Search | :white_check_mark: |
 | 721 | Accounts Merge | Medium | Union Find |   |
 | 725 | Split Linked List in Parts | Medium | Linked List |   |
+| 740 | Delete and Earn | Medium | DP | :white_check_mark: |
 | 797 | All Paths From Source to Target | Medium | DFS |   |
+| 799 | Champagne Tower | Medium | DP |   |
 | 834 | Sum of Distances in Tree | Hard | Graph Theory |   |
 | 848 | Shifting Letters | Medium | Direct |   |
 | 882 | Reachable Nodes In Subdivided Graph | Hard | Priority Queue |   |
