@@ -17,6 +17,7 @@ Use Python to solve Leetcode problems.
 | 55 | Jump Game | Medium | Iteration |   |
 | 62 | Unique Paths | Medium | Dynamic Programming |   |
 | 70 | Climbing Stairs | Easy | Dynamic Programming |   |
+| 71 | Simplify Path | Medium | Stack |   |
 | 75 | Sort Colors | Medium | Dutch National Flag Problem | :white_check_mark: |
 | 78 | Subsets | Medium | Recursion (Backtrack Algorithm) |   |
 | 79 | Word Search | Medium | DFS |   |
@@ -85,6 +86,7 @@ Use Python to solve Leetcode problems.
 | 799 | Champagne Tower | Medium | DP |   |
 | 834 | Sum of Distances in Tree | Hard | Graph Theory |   |
 | 848 | Shifting Letters | Medium | Direct |   |
+| 856 | Score of Parentheses | Medium | Stack | :white_check_mark: |
 | 882 | Reachable Nodes In Subdivided Graph | Hard | Priority Queue |   |
 | 917 | Reverse Only Letters | Easy | Direct |   |
 | 922 | Sort Array By Parity II | Easy | Two Pointers |   |

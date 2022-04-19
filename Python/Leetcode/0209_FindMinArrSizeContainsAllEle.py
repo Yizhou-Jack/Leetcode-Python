@@ -1,5 +1,5 @@
 """
-变形：查找数组中能包含数组中所有元素的最小子数组长度
+Follow up: Find contiguous sub-array of which contains all the chars in the array
 """
 
 """

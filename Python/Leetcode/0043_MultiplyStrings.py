@@ -2,9 +2,25 @@
 Multiply Strings
 """
 
+"""
+n = len(num1)
+m = len(num2)
+resList -> len(resList) = (n+m)
+nums[i]*nums[j] -> mul
+mul stores in the resList[i+j+1]
+mul may > 10 -> resList[i+j+1] = mul%10
+"""
+
+"""
+on the top of my mind is that we can multiply the num string place by place
+so we will have two nested for loop to iterate through
+for each place pair, we can get the multiple result
+we stores mul in the resList[i+j+1]
+"""
+
+
 class Solution:
     def multiply(self, num1: str, num2: str) -> str:
-        res = 0
         n = len(num1)
         m = len(num2)
         resList = [0]*(n+m)
