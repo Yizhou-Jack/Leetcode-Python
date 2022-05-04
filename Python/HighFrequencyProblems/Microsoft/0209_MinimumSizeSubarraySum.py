@@ -15,7 +15,7 @@ two pointers are all start from the index 0
 """
 
 class Solution:
-    def minSubArrayLen(self, s, nums):
+    def minSubArrayLen1(self, s, nums):
         if not nums: return 0
         if max(nums) >= s: return 1
         right = 0
@@ -32,6 +32,29 @@ class Solution:
         if res == float('inf'): return 0
         return res
 
+    def minSubArrayLen2(self, target, nums):
+        numSum = [nums[0]]
+        for i in range(len(nums) - 1):
+            numSum.append(numSum[i] + nums[i + 1])
+
+        def findLeft(left, right, numSum, target, subNumSum):
+            while left < right:
+                mid = (left + right) // 2
+                if subNumSum - numSum[mid] >= target:
+                    left = mid + 1
+                else:
+                    right = mid
+            return left
+
+        res = float("inf")
+        left = 0
+        for right in range(len(numSum)):
+            subNumSum = numSum[right]
+            if subNumSum >= target:
+                left = findLeft(left, right, numSum, target, subNumSum)
+                res = min(res, right - left + 1)
+        return res if res <= len(numSum) else 0
+
 solution = Solution()
-res = solution.minSubArrayLen(3, [1,1])
+res = solution.minSubArrayLen1(3, [1,1])
 print(res)

@@ -1,6 +1,7 @@
 """
 Time complexity (O(k+(n-k)lgk), Min-Heap) analysis:
 Explain n*lgk part: heap push -> lgk
+This is Min-Heap.
 
 Max-Heap: Insert the negative number
 """

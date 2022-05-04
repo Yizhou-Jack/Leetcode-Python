@@ -1,10 +1,11 @@
 """
 Find Winner on a Tic Tac Toe Game
 """
+
 from typing import List
 
 class Solution:
-    def tictactoe(self, moves: List[List[int]]) -> str:
+    def tictactoe1(self, moves: List[List[int]]) -> str:
         def win(matrix, player):
             a = matrix[0][0] == matrix[0][1] == matrix[0][2] == player
             b = matrix[1][0] == matrix[1][1] == matrix[1][2] == player
@@ -35,3 +36,26 @@ class Solution:
         if win(matrix, 2): return "B"
         if not win(matrix, 1) and not win(matrix, 2) and not findZero(matrix): return "Draw"
         return "Pending"
+
+    """
+    0-2 : number of characters placed at each row
+    3-5 : number of characters placed at each column
+    6 : number of characters placed at diagonal
+    7 : number of characters placed at anti-diagonal
+    to keep track of his/her winning status.
+    """
+    def tictactoe2(self, moves: List[List[int]]) -> str:
+        score = [[0] * 8 for _ in range(2)]
+
+        for p, (i, j) in enumerate(moves):
+            p %= 2
+            score[p][i] += 1
+            score[p][3+j] += 1
+            if i == j:
+                score[p][6] += 1
+            if i + j == 2:
+                score[p][7] += 1
+            if any(x == 3 for x in score[p]):
+                return "AB"[p]
+
+        return "Pending" if len(moves) < 9 else "Draw"

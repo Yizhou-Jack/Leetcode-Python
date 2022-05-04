@@ -4,10 +4,11 @@ Word Search
 
 from typing import List
 
-
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        row, col, wordLen = len(board), len(board[0]), len(word)
+        row = len(board)
+        col = len(board[0])
+        wordLen = len(word)
         visited = [[0] * col for _ in range(row)]
 
         def dfs(i, j, k):

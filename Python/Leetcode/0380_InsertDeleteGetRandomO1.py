@@ -5,7 +5,6 @@ Insert Delete GetRandom O(1)
 import random
 
 class RandomizedSet:
-
     def __init__(self):
         self.nums = []
         self.dict = {}
@@ -24,7 +23,7 @@ class RandomizedSet:
             self.nums[idx] = lastVal
             self.dict[lastVal] = idx
             self.nums.pop()
-            self.dict.pop(val, 0)
+            del self.dict[val]
             return True
         return False
 
